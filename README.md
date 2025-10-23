@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FF780&width=435&lines=Welcome+to+Kshitij's+Github)](https://git.io/typing-svg)
 
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c1bHM5dWtzbWRrMTJ5dDUwbWVlaGZscnUzbjQ5OGtxc3A3dWhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MbAkJ39zjrSFXOijgy/giphy.gif" alt="A little about me sticker" width="50" /> A little about me…
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c1bHM5dWtzbWRrMTJ5dDUwbWVlaGZscnUzbjQ5OGtxc3A3dWhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MbAkJ39zjrSFXOijgy/giphy.gif" width="50" /> A little about me…
 
 
 
