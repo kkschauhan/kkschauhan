@@ -4,7 +4,9 @@
 ### A little about me…
 I turn messy data into useful products — blending ML with clean UX and shipping fast.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B0MHBhMHg2b3hvM3FzOHZpYzdsMDVlM2dyY3RkaHFranA5NXNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/teOI1cQcd3dmlJ63JY/giphy.gif" width="220" alt="A little about me sticker" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B0MHBhMHg2b3hvM3FzOHZpYzdsMDVlM2dyY3RkaHFranA5NXNhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/teOI1cQcd3dmlJ63JY/giphy.gif"
+     alt="A little about me sticker"
+     width="50" />
 ```python
 
     def __init__(self):
